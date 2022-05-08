@@ -1,3 +1,4 @@
 # ProcessMining
 
-This repository is created by Oleksandra Zolotenkova for labs.
+This repository was created by Oleksandra Zolotenkova for labs.
+
